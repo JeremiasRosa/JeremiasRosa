@@ -23,4 +23,5 @@ Soy docente en Informática y licenciado en la Enseñanza de la Matemática con 
 
 ## Contacto:
 [![Contacto](https://img.shields.io/badge/Contacto-1a1a2e?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:gmail)
+jeremiassrosapassasin@gmail.com
 
