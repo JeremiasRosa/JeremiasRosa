@@ -10,16 +10,15 @@ Soy docente en Informática y licenciado en la Enseñanza de la Matemática con 
 
 ---
 
-## Tecnologías:
-
-### [HTML5](https://developer.mozilla.org/es/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/es/docs/Web/CSS) · [PHP](https://www.php.net) · [MySQL](https://www.mysql.com) · [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) · [Python](https://www.python.org) · [VSCode](https://code.visualstudio.com)
 ## 🛠️ Tecnologías
 
-<div align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## Contacto:
