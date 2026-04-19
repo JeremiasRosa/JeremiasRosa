@@ -22,5 +22,5 @@ Soy docente en Informática y licenciado en la Enseñanza de la Matemática con 
 ---
 
 ## Contacto:
-[![Escribeme](https://img.shields.io/badge/Jeremías Rosa-1a1a2e?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:jeremiassrosapassasin@gmail.com)
+[![Escríbeme](https://img.shields.io/badge/Escríbeme-1a1a2e?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:gmail)
 
