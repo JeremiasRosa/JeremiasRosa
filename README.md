@@ -13,7 +13,13 @@ Soy docente en Informática y licenciado en la Enseñanza de la Matemática con 
 ## Tecnologías:
 
 ### [HTML5](https://developer.mozilla.org/es/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/es/docs/Web/CSS) · [PHP](https://www.php.net) · [MySQL](https://www.mysql.com) · [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) · [Python](https://www.python.org) · [VSCode](https://code.visualstudio.com)
+## 🛠️ Tecnologías
 
+<div align="center">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+</div>
 ---
 
 ## Contacto:
